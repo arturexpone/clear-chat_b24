@@ -1,0 +1,13 @@
+.imc-timer-popup_row {
+    padding: 5px 0;
+}
+.imc-timer-popup_label {
+    display: inline-block;
+    width: 180px;
+}
+.imc-timer-popup_type-content {
+    display: none;
+}
+.imc-timer-popup_type-content__selected {
+    display: block;
+}

@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS crmsoft_im_clear_settings (
+    ID int UNSIGNED NOT NULL AUTO_INCREMENT,
+    ALL_CHATS int UNSIGNED,
+    INTERVAL_DAYS int NOT NULL,
+    PRIMARY KEY (ID)
+    );
